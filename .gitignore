@@ -1,0 +1,4 @@
+__cache__/
+*.pyc
+template.py
+#TODO: ignore template images
