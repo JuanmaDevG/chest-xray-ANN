@@ -1,5 +1,6 @@
 __cache__/
 *.pyc
-template.py
+template*.py
 .pyvenv/
+chest_xray_512*
 #TODO: ignore template images
