@@ -1,8 +1,0 @@
-#!/bin/bash
-
-python3 -m venv .pyvenv
-. .pyvenv/bin/activate
-pip install keras tensorflow h5py scikit-learn jupyter
-wget https://www.dlsi.ua.es/~juanra/UA/datasets/chest_xray_512.zip
-unzip -q chest_xray_512.zip
-rm chest_xray_512.zip
