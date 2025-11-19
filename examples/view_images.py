@@ -1,5 +1,5 @@
 import numpy as np
-import tensorflow as tf
+import tensorflow as tf # Just as note, not part of the implementation
 from tensorflow import keras
 from tensorflow.keras import layers
 
